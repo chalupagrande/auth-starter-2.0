@@ -62,7 +62,7 @@
     "redux-devtools-extension": "^2.13.2",
     "sass": "^1.25.0",
     "stripe": "^7.15.0",
-    "validator": "^10.11.0",
+    "validator": "^13.7.0",
     "xoauth2": "^1.2.0"
   },
   "license": "ISC",
